@@ -1,0 +1,16 @@
+/**
+ * All your custom CSS should go into this file
+ */
+
+body {
+   padding-top: 60px;
+}
+
+.message
+{
+	margin: 0px auto;
+	padding:100px;
+	font-size:20px;
+	text-align:center;
+}
+
